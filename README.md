@@ -11,7 +11,7 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ppc-ntu-khpi/Python-Exercises/)
 
-[![Open in Codespaces](https://img.shields.io/badge/Open%20in-Codespace-red)](https://github.com/codespaces/ppc-ntu-khpi/Python-Exercises/)
+[![Open in Codespaces](https://img.shields.io/badge/Open%20in-Codespace-red)](https://github.com/codespaces/)
 
 Також ви можете клонувати цей репозиторій, а потім працювати з блокнотами в [DeepNote](https://deepnote.com/) (не все працюватиме). Як це зробити - читайте [тут](https://docs.deepnote.com/integrations/github).
 
