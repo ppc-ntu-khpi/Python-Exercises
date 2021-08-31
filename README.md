@@ -13,7 +13,7 @@
 
 [![Open in Codespaces](https://img.shields.io/badge/Open%20in-Codespace-red)](https://github.com/codespaces/)
 
-Також ви можете клонувати цей репозиторій, а потім працювати з блокнотами в [DeepNote](https://deepnote.com/) (не все працюватиме). Як це зробити - читайте [тут](https://docs.deepnote.com/integrations/github).
+Також ви можете клонувати цей репозиторій, а потім працювати з блокнотами в [DeepNote](https://deepnote.com/) (не все працюватиме). Як це зробити - читайте [тут](https://docs.deepnote.com/integrations/github). Не подобається Colab? Спробуйте інший продукт від Google - [Kaggle](https://www.kaggle.com/)!
 
 А ще у вас є можливість обговорювати ці сніпети в девелоперському мессенджері **Gitter** - у відповідній чат-кімнаті.
 
